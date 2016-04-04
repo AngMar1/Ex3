@@ -1,2 +1,4 @@
-# Ex3
+ Ex3
 vezbame
+
+sredeno za podobro objasnuvanje
